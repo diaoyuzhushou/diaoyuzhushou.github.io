@@ -1,10 +1,10 @@
-# Hexo Configuration
+ï»¿# Hexo Configuration
 ## Docs: http://hexo.io/docs/configuration.html
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: µöÓãÖúÊÖ
-subtitle: µöÓãÈËµÄµÃÁ¦ÖúÊÖ£¨Man Friday of Fishermen£©
+title: é’“é±¼åŠ©æ‰‹
+subtitle: é’“é±¼äººçš„å¾—åŠ›åŠ©æ‰‹ï¼ˆMan Friday of Fishermenï¼‰
 description:
 author: Nan Cao
 email: diaoyuzhushou@gmail.com
@@ -101,7 +101,7 @@ stylus:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:github
+  type: github
   repo: git@github.com:diaoyuzhushou/diaoyuzhushou.github.io.git
   branch: master
   message: "Site updated:)"
