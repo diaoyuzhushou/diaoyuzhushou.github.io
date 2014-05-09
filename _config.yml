@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 钓鱼助手
+subtitle: 钓鱼人的得力助手（Man Friday of Fishermen）
 description:
-author: John Doe
-email:
+author: Nan Cao
+email: diaoyuzhushou@gmail.com
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.diaoyuzhushou.com
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -80,7 +80,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: landscape
+theme: pacman
 exclude_generator:
 
 # Markdown
@@ -101,4 +101,7 @@ stylus:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:github
+  repo: git@github.com:diaoyuzhushou/diaoyuzhushou.github.io.git
+  branch: master
+  message: "Site updated:)"
