@@ -1,7 +1,7 @@
 ##### Menu
 menu:
-  Ê×Ò³: /
-  ´æµµ: /archives
+  é¦–é¡µ: /
+  å­˜æ¡£: /archives
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -33,7 +33,7 @@ dataURI: false
 ## convert an image into base 64 data URIs http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/ .
 author_img_data: ''
 ## paste the dataURI in ONE LINE and included it by ''.
-author_img: img/author.jpg ## size:220px*220px.
+author_img: img/author.png ## size:220px*220px.
 ## if the picture's format is `.png` or `.jpg`  instead of dataURI,you should set the `dataURI` value to false.
 
 #### Font
@@ -56,8 +56,8 @@ fancybox: false
 #### Author information
 author:
   google_plus: 106687092460252023212   ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
-  intro_line1: "µöÓãÈËµÄµÃÁ¦ÖúÊÖ" ## eg: "Hello ,I'm Larry Page in Google."
-  intro_line2: "" #Man Friday of Fishermen # eg: "This is my blog,believe it or not."
+  intro_line1: "é’“é±¼äººçš„å¾—åŠ›åŠ©æ‰‹" ## eg: "Hello ,I'm Larry Page in Google."
+  intro_line2: "Man Friday of Fishermen" #Man Friday of Fishermen # eg: "This is my blog,believe it or not."
   weibo: diaoyuzhushou     ## e.g. 436062867 for http://weibo.com/436062867
   twitter: diaoyuzhushou   ## e.g. yangjiansky for https://twitter.com/yangjiansky
   github:     ## e.g. A-limon for https://github.com/A-limon
