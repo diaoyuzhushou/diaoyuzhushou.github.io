@@ -1,1 +1,9 @@
-±¾Ò³ÕıÔÚÖğ½¥ÍêÉÆÖĞ£¬¸ĞĞ»ÄúµÄ¹Ø×¢£¬ÄúÓĞÈÎºÎĞèÒªÇë·¢ÓÊ¼şÖÁ fuwu@diaoyuzhushou.com ¡£
+# This whole area calls 'front-matter'.
+title: å…³äºè¿™é‡Œ
+date: 2014-05-16
+# You may need provide description to make home page neat.
+description: 
+---
+
+
+æœ¬é¡µæ­£åœ¨é€æ¸å®Œå–„ä¸­ï¼Œæ„Ÿè°¢æ‚¨çš„å…³æ³¨ï¼Œæ‚¨æœ‰ä»»ä½•éœ€è¦è¯·å‘é‚®ä»¶è‡³ fuwu@diaoyuzhushou.com ã€‚

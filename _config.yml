@@ -105,3 +105,8 @@ deploy:
   repo: git@github.com:diaoyuzhushou/diaoyuzhushou.github.io.git
   branch: master
   message: "Site updated:)"
+
+# Plugins
+plugins:
+- hexo-generator-feed
+- hexo-generator-sitemap
