@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[钓鱼助手]]></title>
+  <subtitle><![CDATA[钓鱼人的得力助手（Man Friday of Fishermen）]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.diaoyuzhushou.com/"/>
+  <updated>2014-06-13T06:38:56.732Z</updated>
+  <id>http://www.diaoyuzhushou.com/</id>
+  
+  <author>
+    <name><![CDATA[钓鱼助手]]></name>
+    <email><![CDATA[diaoyuzhushou@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[钓鱼头条]]></title>
+    <link href="http://www.diaoyuzhushou.com/2014/05/16/san-he-liang-yuan/"/>
+    <id>http://www.diaoyuzhushou.com/2014/05/16/san-he-liang-yuan/</id>
+    <published>2014-05-16T02:54:53.000Z</published>
+    <updated>2014-05-16T02:56:01.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://imglf1.ph.126.net/itak0TYWoOeBFbKtayVGyw==/6597683294146773046.jpg" alt=""></p>
+<p>千山万水奔波，三合梁园集合。肥鱼水中嬉戏，齐聚鱼园欢乐！</p>
+<p>三合梁园王老板奇葩继续，今日三合梁园王老板以梦境为先：我就不信了！今日重奖必须的！于是在管理员吃惊的目光中，王老板发言到：“6点至10点，4小时比赛，坑冠直接300元现金，亚军200元、季军100元，渔获还带走！”</p>
+<p>王老板直接兑现：奖励300、200、100！</p>
+]]></content>
+    
+    
+      <category term="头条" scheme="http://www.diaoyuzhushou.com/tags/%E5%A4%B4%E6%9D%A1/"/>
+    
+      <category term="新闻" scheme="http://www.diaoyuzhushou.com/tags/%E6%96%B0%E9%97%BB/"/>
+    
+      <category term="钓鱼头条" scheme="http://www.diaoyuzhushou.com/categories/%E9%92%93%E9%B1%BC%E5%A4%B4%E6%9D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[冠军经验]]></title>
+    <link href="http://www.diaoyuzhushou.com/2014/05/16/guan-jun-jing-yan/"/>
+    <id>http://www.diaoyuzhushou.com/2014/05/16/guan-jun-jing-yan/</id>
+    <published>2014-05-16T02:51:48.000Z</published>
+    <updated>2014-05-16T02:56:12.000Z</updated>
+    <content type="html"><![CDATA[<p>北京各大钓鱼比赛冠军即将来此分享，尽请期待！</p>
+]]></content>
+    
+    
+      <category term="经验" scheme="http://www.diaoyuzhushou.com/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+      <category term="新闻" scheme="http://www.diaoyuzhushou.com/tags/%E6%96%B0%E9%97%BB/"/>
+    
+      <category term="钓鱼头条" scheme="http://www.diaoyuzhushou.com/categories/%E9%92%93%E9%B1%BC%E5%A4%B4%E6%9D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[钓鱼指数（北京）]]></title>
+    <link href="http://www.diaoyuzhushou.com/2014/05/16/diaoyuzhishu-beijing/"/>
+    <id>http://www.diaoyuzhushou.com/2014/05/16/diaoyuzhishu-beijing/</id>
+    <published>2014-05-16T02:35:05.000Z</published>
+    <updated>2014-05-16T02:46:03.000Z</updated>
+    <content type="html"><![CDATA[<p>日期：2014年5月16日（星期五）</p>
+<p>天气舒适指数：舒适</p>
+<p>上钩指数：高</p>
+]]></content>
+    
+    
+      <category term="钓鱼指数" scheme="http://www.diaoyuzhushou.com/tags/%E9%92%93%E9%B1%BC%E6%8C%87%E6%95%B0/"/>
+    
+      <category term="钓鱼指数" scheme="http://www.diaoyuzhushou.com/categories/%E9%92%93%E9%B1%BC%E6%8C%87%E6%95%B0/"/>
+    
+  </entry>
+  
+</feed>
